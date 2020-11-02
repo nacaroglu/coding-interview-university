@@ -65,14 +65,14 @@ If you want to be a reliability engineer or operations engineer, study more from
 
 ## Table of Contents
 
-- [ ] [What is it?](#what-is-it)
-- [ ] [Why use it?](#why-use-it)
-- [ ] [How to use it](#how-to-use-it)
-- [ ] [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [ ] [About Video Resources](#about-video-resources)
-- [ ] [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
-- [ ] [Pick One Language for the Interview](#pick-one-language-for-the-interview)
-- [ ] [Book List](#book-list)
+- [What is it?](#what-is-it)
+- [Why use it?](#why-use-it)
+- [How to use it](#how-to-use-it)
+- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [About Video Resources](#about-video-resources)
+- [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
+- [Pick One Language for the Interview](#pick-one-language-for-the-interview)
+- [Book List](#book-list)
 - [Before you Get Started](#before-you-get-started)
 - [What you Won't See Covered](#what-you-wont-see-covered)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
@@ -233,8 +233,8 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 ## Don't feel you aren't smart enough
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+-  [ ] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+-  [ ] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 ## About Video Resources
 
